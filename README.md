@@ -1,6 +1,6 @@
 ## Olá, sou o Marcelo Garcia 👋
 
-![Slabcouski Github stats](https://github-readme-stats.vercel.app/api?username=slabcouski&show_icons=true&theme=gruvbox_light)
+![Marcelo Garcia Github stats](https://github-readme-stats.vercel.app/api?username=slabcouski&show_icons=true&theme=gruvbox_light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slabcouski&hide_progress=true&theme=gruvbox_light)
 
 <!---
