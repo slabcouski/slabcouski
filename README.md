@@ -1,7 +1,7 @@
 ## Olá, sou o Marcelo Garcia 👋
 
-![Slabcouski Github stats](https://github-readme-stats.vercel.app/api?username=slabcouski&show_icons=true&theme=github_dark_dimmed)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slabcouski&hide_progress=true&theme=github_dark_dimmed)
+![Slabcouski Github stats](https://github-readme-stats.vercel.app/api?username=slabcouski&show_icons=true&theme=gruvbox_light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slabcouski&hide_progress=true&theme=gruvbox_light)
 
 <!---
 slabcouski/slabcouski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
